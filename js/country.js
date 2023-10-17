@@ -11,4 +11,4 @@ const displaCountries = countries => {
 
     }
 
-}
+}//api practice is done
